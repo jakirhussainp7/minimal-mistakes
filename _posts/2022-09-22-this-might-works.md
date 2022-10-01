@@ -27,7 +27,7 @@ asfklasjf asjfa
 
 
 {% capture fig_img %}
-![Foo]({{ "/assets/images/first-image-3.jpg" | relative_url }})
+![Foo]({{ "/assets/images/first-image-2.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
