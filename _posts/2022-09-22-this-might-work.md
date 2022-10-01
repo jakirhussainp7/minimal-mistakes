@@ -1,3 +1,17 @@
+---
+layout: single
+title: Title of the post
+date: 2022-10-02
+tags:
+  - blog
+  - theme
+  - test
+toc: true
+toc_sticky: true
+header:
+  
+published: true
+---
 A text has a BIG title.
 
 
