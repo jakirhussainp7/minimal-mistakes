@@ -156,6 +156,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - assets/images/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,6 +288,8 @@ defaults:
     values:
       layout: splash #single
       classes: 
+        - landing
+        - dark-theme
       author_profile: true
       read_time: true
       comments: # true
@@ -295,9 +299,10 @@ defaults:
       
 jekyll_compose:
   auto_open: true
+  toc: true
   default_front_matter:
     drafts:
-      layout: single
+      layout: splash #single
       tags:
       header:
         image:
