@@ -286,10 +286,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash #single
-      classes: 
-        - landing
-        - dark-theme
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
@@ -302,14 +299,14 @@ jekyll_compose:
   toc: true
   default_front_matter:
     drafts:
-      layout: splash #single
+      layout: single
       tags:
       header:
         image:
         image_description:
         caption:
     posts:
-      layout: splash #single
+      layout: single
       tags:
       header:
         image:
