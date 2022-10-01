@@ -1,17 +1,16 @@
 ---
-layout: splash
+layout: single
 classes:
   - landing
   - dark-theme
-
 title: "Dark-theme landing post page"
 tags:
   - blog
   - dark-theme
-
 toc: true
 toc_icon: "cog"
 toc_label: "My first Toc title"
+toc_sticky: true
 share: false
 header:
   image: /assets/images/first-image.jpg
@@ -21,10 +20,33 @@ header:
 ---
 
 # Good Heading
-
+ds llfasfjas df a
+ds
+faskfja f
+asfas fkasjf 
+lkajsdf askldfj sdfjasldjfasd faslkdfjas dfasdklfjsjflasjdflasdflsdjf 
+akf
+afklaj fjasdjfajdfsjdfljsfjsdfjewoirjsdfiofewoirlsdjfewoijrfoejweoijfojfweijroiiwejsf
+jofjwejfjf;jsdlf;jasdf;ljas;fjas;fjasdjewfweij
 ## second good heading
-
+ds llfasfjas df a
+ds
+faskfja f
+asfas fkasjf 
+lkajsdf askldfj sdfjasldjfasd faslkdfjas dfasdklfjsjflasjdflasdflsdjf 
+akf
+afklaj fjasdjfajdfsjdfljsfjsdfjewoirjsdfiofewoirlsdjfewoijrfoejweoijfojfweijroiiwejsf
+jofjwejfjf;jsdlf;jasdf;ljas;fjas;fjasdjewfweij
 ### subheading under good
+lkkdjadf aslkj
+dds llfasfjas df a
+ds
+faskfja f
+asfas fkasjf 
+lkajsdf askldfj sdfjasldjfasd faslkdfjas dfasdklfjsjflasjdflasdflsdjf 
+akf
+afklaj fjasdjfajdfsjdfljsfjsdfjewoirjsdfiofewoirlsdjfewoijrfoejweoijfojfweijroiiwejsf
+jofjwejfjf;jsdlf;jasdf;ljas;fjas;fjasdjewfweij
 
 Hello 
 
