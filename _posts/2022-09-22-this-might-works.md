@@ -8,8 +8,8 @@ tags:
   - test
 #toc: true
 header:
-  image: /assets/images/first-image.jpg
-  image_caption: "Photo Credit: [**unsplash](https://unsplash.com)"
+  #image: /assets/images/first-image.jpg
+  #image_caption: "Photo Credit: [**unsplash](https://unsplash.com)"
 published: true
 ---
 A text has a BIG title.
