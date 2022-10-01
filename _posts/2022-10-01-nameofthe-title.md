@@ -1,12 +1,10 @@
 ---
-layout: single
-classes:
-  - landing
-  - dark-theme
-title: "Dark-theme landing post page"
+layout: splash
+title: Dark-theme landing post page
 tags:
   - blog
   - dark-theme
+published: true
 toc: true
 toc_icon: "cog"
 toc_label: "My first Toc title"
@@ -15,9 +13,8 @@ share: false
 header:
   image: /assets/images/first-image.jpg
   caption: "Photo Credit" [unsplash](https://www.unsplash.com)
-  
-
 ---
+THis text diplays the Title 
 
 # Good Heading
 ds llfasfjas df a
