@@ -26,6 +26,14 @@ asf aslkkfjas f
 asfklasjf asjfa 
 
 
+{% capture fig_img %}
+![Foo]({{ "/assets/images/first-image-3.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Unsplash.</figcaption>
+</figure>
 
 # Heading 11
 
