@@ -2,15 +2,14 @@
 #layout: single
 #title: Title of the post
 #date: 2022-10-02
-#tags:
-  #- blog
-  #- theme
-  #- test
+tags:
+  - blog
+  - theme
+  - test
 #toc: true
-#toc_sticky: true
-#header:
-  #image: /assets/images/first-image.jpg
-  #image_caption: "Photo Credit: [**unsplash](https://unsplash.com)"
+header:
+  image: /assets/images/first-image.jpg
+  image_caption: "Photo Credit: [**unsplash](https://unsplash.com)"
 published: true
 ---
 A text has a BIG title.
