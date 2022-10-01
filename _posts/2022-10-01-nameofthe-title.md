@@ -8,8 +8,8 @@ toc_icon: "cog"
 toc_label: "My first Toc title"
 share: false
 header:
-  image: /assests/images/first-image.jpg
-  caption: "Photo Credit" [unsplash]
+  image: /assets/images/first-image.jpg
+  caption: "Photo Credit" [unsplash](https://www.unsplash.com)
 ---
 
 # Good Heading
