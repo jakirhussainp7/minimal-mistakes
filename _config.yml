@@ -109,6 +109,8 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
+  wire             : "captainjak"
+  signal           : "+46-731295316"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,6 +130,13 @@ author:
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Wire"
+      icon: "fab fa-fw fa fa-wire"
+      url: "https://wire.com/@captainjak"
+    - label: "Signal"
+      icon: "fab fa-fw fa-signal"
+      url: "+46-731295316"
+      
 
 # Site Footer
 footer:
